@@ -1,4 +1,1 @@
-
-for (i in 1:10) {
-  print(i)
-}
+This is new stuff I learned.
